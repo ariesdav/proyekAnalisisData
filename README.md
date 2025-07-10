@@ -11,6 +11,10 @@
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
+### File Update:
+https://drive.usercontent.google.com/download?id=1RrFKYhA53yNYhG39v6RIR_a3mKUGQDuX&export=download&authuser=0
+!!untuk menambahkan main_data.csv pada folder dashboard
+
 ## Streamlit Cloud:
 
 ## Setup Environment - Anaconda
