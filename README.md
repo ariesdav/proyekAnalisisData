@@ -12,7 +12,7 @@
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ### File Update:
-https://drive.usercontent.google.com/download?id=1RrFKYhA53yNYhG39v6RIR_a3mKUGQDuX&export=download&authuser=0
+https://drive.google.com/drive/folders/1S5gru5RNK5QZLTb87syEzM9ZFnF2QqW7?usp=drive_link
 
 ##### untuk menambahkan main_data.csv pada folder dashboard
 
